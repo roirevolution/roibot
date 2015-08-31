@@ -1,6 +1,6 @@
 {
-  "name": "triatomic",
-  "version": "0.0.0",
+  "name": "roibot",
+  "version": "0.0.1",
   "private": true,
   "author": "Bob Bergman <rbergman@atlassian.com>",
   "description": "A simple helpful robot for your Company",
