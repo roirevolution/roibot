@@ -1,1 +1,8 @@
-[]
+[
+  "abstract.coffee",
+  "ascii.coffee",
+  "aww.coffee",
+  "bang-bang.coffee",
+  "commitmessage.coffee",
+  "cowsay.coffee"
+]
