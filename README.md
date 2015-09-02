@@ -4,8 +4,8 @@
 
 For more information about Hubot in general:
 
-[hubot-hipchat]: https://github.com/hipchat/hubot-hipchat
-[hubot]: http://hubot.github.com
+[hubot-hipchat](https://github.com/hipchat/hubot-hipchat)
+[hubot](http://hubot.github.com)
 
 ### Running roibot locally
 
