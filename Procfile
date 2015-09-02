@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat
+web: bin/roibot -a hipchat
