@@ -28,6 +28,14 @@
       "value": "https://github.com/heroku/heroku-buildpack-nodejs",
       "description": "Only change this if you are sure you need to.",
       "required": true
+    },
+    "HUBOT_GOOGLE_CSE_KEY": {
+      "description": "Google Developer API Key for Custom Search Engine",
+      "required": true
+    },
+    "HUBOT_GOOGLE_CSE_ID": {
+      "description": "Google Custom Search Engine ID",
+      "required": true
     }
   }
 }
