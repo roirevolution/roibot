@@ -12,7 +12,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-help": "^0.1.1",
     "hubot-google-images": "^0.2.6",
-    "hubot-better-clipart": "*",
+    "hubot-better-clipart": "^1.0.3",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0"
   },
