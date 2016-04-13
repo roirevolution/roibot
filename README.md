@@ -4,7 +4,7 @@
 
 For more information about Hubot in general:
 
-[hubot-hipchat](https://github.com/hipchat/hubot-hipchat)
+[hubot-slack](https://github.com/slackhq/hubot-slack)
 [hubot](http://hubot.github.com)
 
 ### Running roibot locally

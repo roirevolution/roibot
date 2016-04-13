@@ -1,1 +1,1 @@
-web: bin/roibot -a hipchat
+web: bin/roibot -a slack
