@@ -1,11 +1,6 @@
 [
   "abstract.coffee",
   "aww.coffee",
-  "bang-bang.coffee",
-  "commitmessage.coffee",
-  "cowsay.coffee",
-  "eval.coffee",
-  "pomodoro.coffee",
   "ruby_rules.coffee",
   "swanson.coffee",
   "xkcd.coffee"
